@@ -25,7 +25,7 @@ Pandas, NumPy
 Scikit-learn  
 TfidfVectorizer (for NLP)  
 PassiveAggressiveClassifier
-Demo link :
+Demo link youtube  :https://youtu.be/UgvOAtOPU7I
 
 Model Performance
 
